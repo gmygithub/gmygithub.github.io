@@ -4503,7 +4503,7 @@ img {
   background: var(--btn-hover-color);
 }
 #vcomment textarea {
-  background: url("https://cdn.jsdelivr.net/gh/gmygithub/img/hexoimg/012.png") 100% 100% no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/gmygithub/img/comment-bg/1.png") 100% 100% no-repeat;
 }
 #vcomment .vimg {
   -webkit-transition: all 0.3s;
